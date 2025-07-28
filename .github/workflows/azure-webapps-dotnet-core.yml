@@ -20,7 +20,7 @@
 name: Build and deploy ASP.Net Core app to an Azure Web App
 
 env:
-  AZURE_WEBAPP_NAME: mapleApi                # Your Azure Web App name
+  AZURE_WEBAPP_NAME: mapleapi-exbseubwa3c9b6hn                # Your Azure Web App name
   DOTNET_VERSION: '8.0'                      # .NET version to use
   PUBLISH_DIR: './publish_output'            # Output path for dotnet publish
 
