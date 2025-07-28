@@ -25,3 +25,4 @@ appsettings.*.json
 
 # Others
 *.swp
+.env
