@@ -21,7 +21,7 @@ name: Build and deploy ASP.Net Core app to an Azure Web App
 
 env:
   AZURE_WEBAPP_NAME: mapleapi-exbseubwa3c9b6hn
-  DOTNET_VERSION: '5.0.x'                    # Fixed: Use proper .NET 5 version format
+  DOTNET_VERSION: '8.0.x'                    # Fixed: Use proper .NET 5 version format
   PUBLISH_DIR: './publish_output'
 
 on:
